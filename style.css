@@ -1,0 +1,48 @@
+#header {
+    color:rgb(252, 249, 249);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100;
+}
+#fahim {
+    background-color: rgb(10, 10, 0)
+}
+#profile{
+    margin: auto;
+    height: 300;
+}
+#titleDiv {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+body {
+    justify-content: center;
+}
+#aboutMe{
+    text-align: center;
+    color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#paragraphMe {
+    color: white;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #1a1919;
+    overflow: hidden;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.navbar a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
