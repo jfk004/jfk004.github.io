@@ -24,19 +24,19 @@ body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 #paragraphMe {
-    color: white;
+    color: whitesmoke;
     text-align: center;
 }
 
 .navbar {
-    background-color: #1a1919;
+    background-color: #373535;
     overflow: hidden;
     text-align: center;
     padding: 10px 0;
 }
 
 .navbar a {
-    color: white;
+    color: whitesmoke;
     padding: 14px 20px;
     text-decoration: none;
     font-family: Arial, sans-serif;
